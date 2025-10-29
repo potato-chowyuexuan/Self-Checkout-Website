@@ -1,7 +1,5 @@
 import streamlit as st
-##import json
 import re
-##from datetime import datetime
 
 # Initialize session state
 #session_state act like an object and dictionary
@@ -13,7 +11,7 @@ if 'current_sandwich' not in st.session_state:
 if 'page' not in st.session_state:
     st.session_state.page = 'menu'
 
-#Image(have to re-upload for each session)
+#Image(copy image file path and paste here)
 logo = "/content/logo image file.png"
 
  #Menu
@@ -486,4 +484,5 @@ def display_checkout():
                 st.session_state.current_sandwich = None
                 st.session_state.page = 'menu'
                 st.session_state.order_placed = False
+
                 st.rerun()
