@@ -26,10 +26,10 @@ Users can browse a menu, customize their sandwiches, add items to a cart, and pr
 ## Project Structure
 
 selfcheckout-app/
-├── app.py # Main app – handles navigation and page setup
-├── mylibrary.py # Contains menu, customization, cart, and checkout logic
-├── requirements.txt # Dependencies
-└── README.md # Documentation
+app.py # Main app – handles navigation and page setup
+mylibrary.py # Contains menu, customization, cart, and checkout logic
+requirements.txt # Dependencies
+README.md # Documentation
 
 ---
 
