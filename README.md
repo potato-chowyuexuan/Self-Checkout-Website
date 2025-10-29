@@ -41,9 +41,18 @@ selfcheckout-app/
    cd selfcheckout-app
 
 2. **Install dependencies**
-   pip install -r requirements.txt
+   pip install streamlit -q
 
 3. **Run the app**
    streamlit run app.py
 
 4. Open the local URL in your browser
+
+---
+
+## Author
+
+Developed by Chow Yue Xuan
+contact: chowyuexuan@gmail.com
+
+This project is for educational and demonstration purposes.
