@@ -53,6 +53,7 @@ selfcheckout-app/
 ## Author
 
 Developed by Chow Yue Xuan
+
 contact: chowyuexuan@gmail.com
 
 This project is for educational and demonstration purposes.
